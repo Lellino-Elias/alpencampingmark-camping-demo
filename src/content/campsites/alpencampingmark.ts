@@ -78,7 +78,7 @@ const alpencampingmark: CampsiteConfig = {
       {
         title: "20.000 m² Wiesengelände",
         text: "95 befestigte Stellplätze von 70 bis 120 m², jeder mit Stromanschluss, eingebettet in 20.000 m² gepflegte Wiese.",
-        image: { src: `${IMG}/hero-d6190aa572.webp`, alt: "Luftaufnahme des Campingplatzes Alpencamping Mark in Weer" },
+        image: { src: `${IMG}/gallery-834c5f75e4.webp`, alt: "Luftaufnahme des Alpencamping Mark in Weer mit Stellplätzen, Pool und Tirolblick" },
       },
       {
         title: "Café & Restaurant",
