@@ -88,7 +88,7 @@ const alpencampingmark: CampsiteConfig = {
       {
         title: "Warme Küche am Abend",
         text: "Von 17.30 bis 20.30 Uhr warme Gerichte, danach noch Kleinigkeiten und gute Getränke an der Bar.",
-        image: { src: `${IMG}/gallery-19a7867c6f.webp`, alt: "Frisch zubereitetes Gericht aus der Camping-Küche" },
+        image: { src: `${IMG}/gallery-10d44e950f.webp`, alt: "Hausgemachter Apfelstrudel mit Vanilleeis aus der Camping-Küche" },
       },
     ],
   },
@@ -129,7 +129,7 @@ const alpencampingmark: CampsiteConfig = {
     images: [
       { src: `${IMG}/gallery-132e0eefb3.webp`, alt: "Wanderweg mit Blick auf das Karwendelgebirge" },
       { src: `${IMG}/gallery-7a0ff3ca56.webp`, alt: "Mountainbiken in der Silberregion Karwendel" },
-      { src: `${IMG}/gallery-10d44e950f.webp`, alt: "Hausgemachter Apfelstrudel im Camping-Café" },
+      { src: `${IMG}/gallery-97c6ae5fe8.webp`, alt: "Außenbereich des Alpencamping Mark mit gemütlicher Sitzgruppe und Blick in die Berge" },
     ],
   },
 
