@@ -57,7 +57,7 @@ const alpencampingmark: CampsiteConfig = {
     heading: "Klasse statt Masse, seit 1973",
     headingEmphasis: "Klasse statt Masse",
     intro:
-      "Drei Generationen, ein Anspruch: lieber 95 großzügige Plätze auf gepflegter Wiese als ein überfüllter Campingplatz. Dazu ADAC-Auszeichnung, geheiztes Schwimmbad und ein Aktivprogramm für die ganze Familie.",
+      "Eine Familie, ein Anspruch: lieber 95 großzügige Plätze auf gepflegter Wiese als ein überfüllter Campingplatz. Dazu ADAC-Auszeichnung, geheiztes Schwimmbad und ein Aktivprogramm für die ganze Familie.",
   },
 
   awards: [
